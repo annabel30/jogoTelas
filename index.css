@@ -36,12 +36,6 @@
     height: 90vh;
 }
 
-.title {
-    display: flex;
-    flex-direction: column;
-    font-size: 10rem;
-}
-
 .buttons {
     display: flex;
     flex-direction: column;
