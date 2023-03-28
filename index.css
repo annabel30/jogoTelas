@@ -28,3 +28,13 @@
     width: 100%;
     height: 10vh;
 }
+
+.buttonPontuacao:hover {
+    background-color: #dd6b89;
+    cursor: pointer;
+}
+
+.buttonJogar:hover {
+    background-color: #f82960;
+    cursor: pointer;
+}
