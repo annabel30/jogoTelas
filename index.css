@@ -8,6 +8,7 @@
     padding: 0;
     font-family: Fonte;
     background-color: black;
+    font-size: larger;
 }
 
 .page {
@@ -16,6 +17,10 @@
     justify-content: space-around;
     align-items: center;
     width: 100%;
+}
+
+.title {
+    color: white;
 }
 
 .imageBackground {
@@ -27,7 +32,7 @@
 .buttonPontuacao {
     background-color: #F27D9D;
     border-radius: 1rem;
-    width: 100%;
+    width: 90%;
     height: 10vh;
     border: 0;
 }
@@ -35,7 +40,7 @@
 .buttonJogar {
     background-color: #FF3D72;
     border-radius: 1rem;
-    width: 100%;
+    width: 90%;
     height: 10vh;
     border: 0;
 }
