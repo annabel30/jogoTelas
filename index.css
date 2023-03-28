@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Fonte;
+    src: url(./Jujutsu\ Kaisen.ttf);
+}
+
+* {
+    font-family: Fonte;
+}
