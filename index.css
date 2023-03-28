@@ -9,6 +9,6 @@
 }
 
 .imageBackground {
-    width: 100%;
+    position: absolute;
     height: 90vh;
 }
