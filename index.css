@@ -5,4 +5,10 @@
 
 * {
     font-family: Fonte;
+    background-color: black;
+}
+
+.imageBackground {
+    width: 100%;
+    height: 100%;
 }
