@@ -8,6 +8,10 @@
     padding: 0;
     font-family: Fonte;
     background-color: black;
+    background-image: url(./img/backgroundImage.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
     font-size: larger;
 }
 
@@ -22,7 +26,7 @@
 
 .title {
     color: white;
-    font-size: 5rem;
+    font-size: 10vw;
 }
 
 .imageBackground {
