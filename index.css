@@ -30,6 +30,11 @@
     height: 90vh;
 }
 
+.title {
+    display: flex;
+    flex-direction: column;
+}
+
 .buttonPontuacao {
     background-color: #F27D9D;
     border-radius: 1rem;
