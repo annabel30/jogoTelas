@@ -73,16 +73,18 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 20vw;
-    height: 9vh;
+    width: 17vw;
+    height: 6vh;
     border: 0;
     background-color: #2AA2D6;
     border-radius: 1rem;
+    position: absolute;
+    margin: 1rem;
 }
 
 .casa {
-    width: 50%;
-    height: 50%;
+    width: 40%;
+    height: 40%;
 }
 
 a {
