@@ -107,15 +107,15 @@
 
 
 .rainbow:after{
-    content: "ZION";
+    content: "";
     position: absolute;
-    background-color: #1c1b29;
+    background-color: #ffffff;
     height: 93%;
     width: 93%;
     top: 3.5%;
     left: 3.5%;
     font-family: 'Poppins', sans-serif;
-    color: #ffffff;
+    color: #000000;
     font-size: 20px;
     letter-spacing: 6px;
     display: grid;
