@@ -68,3 +68,14 @@
     padding-bottom: 13rem;
     position: absolute;
 }
+
+.boxVoltar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20vw;
+    height: 9vh;
+    border: 0;
+    background-color: #2AA2D6;
+    border-radius: 1rem;
+}
