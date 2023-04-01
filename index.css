@@ -75,4 +75,5 @@
 
 a {
     text-decoration: none;
+    position: inherit;
 }
