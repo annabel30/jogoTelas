@@ -79,3 +79,12 @@
     background-color: #2AA2D6;
     border-radius: 1rem;
 }
+
+.casa {
+    width: 50%;
+    height: 50%;
+}
+
+a {
+    text-decoration: none;
+}
