@@ -50,7 +50,7 @@
 .buttonPontuacao {
     background-color: #F27D9D;
     border-radius: 1rem;
-    width: 90%;
+    width: 90vw;
     height: 8vh;
     border: 0;
 }
@@ -58,7 +58,7 @@
 .buttonJogar {
     background-color: #FF3D72;
     border-radius: 1rem;
-    width: 90%;
+    width: 90vw;
     height: 8vh;
     border: 0;
 }
@@ -75,5 +75,5 @@
 
 a {
     text-decoration: none;
-    position: inherit;
+    color: black;
 }
