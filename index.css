@@ -84,7 +84,7 @@ a {
     animation: glitch 1s linear infinite;
     padding-top: 10vh;
     color: white;
-    font-size: 15vw;
+    font-size: 18vw;
 }
 
 @keyframes glitch {
