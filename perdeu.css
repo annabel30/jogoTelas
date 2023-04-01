@@ -524,9 +524,3 @@ a {
     animation: paths 5s step-end infinite, opacity 5s step-end infinite,
         font 7s step-end infinite, movement 8s step-end infinite;
 }
-
-.hero-container {
-    position: relative;
-    padding: 200px 0;
-    text-align: center;
-}
