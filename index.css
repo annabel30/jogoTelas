@@ -80,7 +80,7 @@ a {
 
 /* -------------------------------------- */
 
-test {
+.test {
     animation: glitch 1s linear infinite;
 }
 
