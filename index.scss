@@ -1,3 +1,9 @@
+%test {
+    position: absolute;
+      content: '';
+      transition: all .5s;
+}
+
 .button { 
 	display: inline-block; 
 	padding: 20px 40px;
