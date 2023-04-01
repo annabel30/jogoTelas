@@ -49,6 +49,11 @@
     font-size: 15vw;
 }
 
+.fonte {
+    color: black;
+    font-size: 10vw;
+}
+
 .imageBackground {
     position: absolute;
     z-index: -5;
