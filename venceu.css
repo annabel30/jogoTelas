@@ -63,3 +63,45 @@
     padding-bottom: 13rem;
     position: absolute;
 }
+
+/* ---------------------------------------- */
+
+.firework {
+    animation: firework 2s infinite;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 0.5vmin;
+    aspect-ratio: 1;
+    background: radial-gradient(circle, yellow 0.5vmin, #0000 0) 50% 0%;
+    background-size: 0.5vmin 0.5vmin;
+    background-repeat: no-repeat;
+
+}
+
+@keyframes firework {
+    0% {
+        transform: translate(-50%, 60vh);
+        width: 0.5vmin;
+        opacity: 1;
+    }
+
+    50% {
+        width: 0.5vmin;
+        opacity: 1;
+    }
+
+    100% {
+        width: 45vmin;
+        opacity: 0;
+    }
+}
+
+.firework::before {
+    transform: translate(-50%, -50%) rotate(25deg) !important;
+}
+
+.firework::after {
+    transform: translate(-50%, -50%) rotate(-37deg) !important;
+}
