@@ -74,7 +74,28 @@
     transform: translate(-50%, -50%);
     width: 0.5vmin;
     aspect-ratio: 1;
-    background: radial-gradient(circle, yellow 0.5vmin, #0000 0) 50% 0%;
+    background: 
+    radial-gradient(circle, yellow 0.5vmin, #0000 0) 50% 0%
+    radial-gradient(circle, yellow 0.5vmin, #0000 0) 50% 0%
+    radial-gradient(circle, yellow 0.5vmin, #0000 0) 50% 0%
+    radial-gradient(circle, yellow 0.5vmin, #0000 0) 50% 0%
+    radial-gradient(circle, yellow 0.5vmin, #0000 0) 50% 0%
+    radial-gradient(circle, yellow 0.5vmin, #0000 0) 50% 0%
+    radial-gradient(circle, yellow 0.5vmin, #0000 0) 50% 0%
+    radial-gradient(circle, yellow 0.5vmin, #0000 0) 50% 0%
+    radial-gradient(circle, yellow 0.5vmin, #0000 0) 50% 0%
+    radial-gradient(circle, yellow 0.5vmin, #0000 0) 50% 0%
+    radial-gradient(circle, yellow 0.5vmin, #0000 0) 50% 0%
+    radial-gradient(circle, yellow 0.5vmin, #0000 0) 50% 0%
+    radial-gradient(circle, yellow 0.5vmin, #0000 0) 50% 0%
+    radial-gradient(circle, yellow 0.5vmin, #0000 0) 50% 0%
+    radial-gradient(circle, yellow 0.5vmin, #0000 0) 50% 0%
+    radial-gradient(circle, yellow 0.5vmin, #0000 0) 50% 0%
+    radial-gradient(circle, yellow 0.5vmin, #0000 0) 50% 0%
+    radial-gradient(circle, yellow 0.5vmin, #0000 0) 50% 0%
+    radial-gradient(circle, yellow 0.5vmin, #0000 0) 50% 0%
+    radial-gradient(circle, yellow 0.5vmin, #0000 0) 50% 0%
+    ;
     background-size: 0.5vmin 0.5vmin;
     background-repeat: no-repeat;
     z-index: 10;
