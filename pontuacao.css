@@ -13,8 +13,9 @@
 .page {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: flex-end;
     align-items: center;
+    gap: 1rem;
     background-color: black;
     background-image: url(./img/pontosB.jpg);
     background-repeat: no-repeat;
@@ -51,10 +52,10 @@
     background-color: rgba(185, 166, 216, 0.65);
 }
 
-.imageLevel {
+/* .imageLevel {
     width: 5vw;
     height: 100%;
-}
+} */
 
 .title {
     color: #262626;
