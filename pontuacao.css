@@ -31,7 +31,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 1rem;
-    width: 60%;
+    width: 40%;
     height: 6vh;
     border-radius: 1rem;
 }
@@ -53,20 +53,10 @@
     margin-bottom: 3rem;
 }
 
-/* .imageLevel {
-    width: 5vw;
-    height: 100%;
-} */
-
 .title {
     color: #262626;
     text-shadow: 3px 3px white;
     font-size: 15vw;
-}
-
-.fonte {
-    color: #262626;
-    font-size: 8vw;
 }
 
 .imageBackground {
