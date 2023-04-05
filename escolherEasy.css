@@ -68,7 +68,7 @@
 .buttonVoltar {
     background-color: #B9A9D4;
     border-radius: 1rem;
-    /* width: 48%; */
+    width: 98%;
     height: 8vh;
     border: 0;
 }
@@ -76,7 +76,7 @@
 .buttonJogar {
     background-color: #B9A9D4;
     border-radius: 1rem;
-    /* width: 48%; */
+    width: 98%;
     height: 8vh;
     border: 0;
 }
