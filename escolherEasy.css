@@ -7,7 +7,6 @@
     margin: 0;
     padding: 0;
     font-family: Fonte;
-    font-size: larger;
 }
 
 .page {
@@ -39,5 +38,5 @@
 }
 
 .imageEasyCard {
-    width: 50%;
+    width: 35%;
 }
