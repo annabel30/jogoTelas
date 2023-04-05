@@ -13,12 +13,9 @@
 .page {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: flex-end;
     align-items: center;
     background-color: #A086CB;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: contain;
     width: 100%;
     height: 100vh;
 }
@@ -29,6 +26,9 @@
     justify-content: space-around;
     align-items: center;
     background-color: #F5F5F5;
+    width: 90%;
+    border-radius: 1rem;
+    margin: 1rem;
 }
 
 .firstLine {
@@ -36,4 +36,8 @@
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
+}
+
+.imageEasyCard {
+    width: 50%;
 }
