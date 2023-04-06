@@ -84,6 +84,7 @@
     border: 0;
     font-size: 1.2rem;
     font-family: Jujutsu;
+    color: white;
 }
 
 .buttonJogar {
@@ -94,6 +95,7 @@
     border: 0;
     font-size: 1.2rem;
     font-family: Jujutsu;
+    color: white;
 }
 
 .buttonPontuacao:hover {
