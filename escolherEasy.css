@@ -52,7 +52,7 @@
 .boxTextInfoLevel {
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: flex-start;
     flex-wrap: wrap;
     gap: 1rem;
@@ -62,6 +62,11 @@
 .textInfoLevel {
     width: 90%;
     font-size: 1.2rem;
+}
+
+.infoBold {
+    font-size: 1.2rem;
+    font-weight: bolder;
 }
 
 .textInfoGeneral {
