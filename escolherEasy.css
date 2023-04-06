@@ -57,17 +57,17 @@
     flex-wrap: wrap;
     gap: 1rem;
     padding-left: 1rem;
-}
-
-.textInfoLevel {
-    width: 90%;
     font-size: 1.2rem;
 }
 
-.infoBold {
+/* .textInfoLevel {
+    font-size: 1.2rem;
+} */
+
+/* .infoBold {
     font-size: 1.2rem;
     font-weight: bolder;
-}
+} */
 
 .textInfoGeneral {
     width: 80%;
