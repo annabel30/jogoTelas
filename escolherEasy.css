@@ -57,6 +57,16 @@
     padding-left: 1rem;
 }
 
+.lineTextInfoLevel {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
+
+.infoBold {
+    font-weight: bolder;
+}
+
 .textInfoLevel {
     width: 90%;
     font-size: 1.2rem;
@@ -98,7 +108,7 @@
     color: white;
 }
 
-.buttonPontuacao:hover {
+.buttonVoltar:hover {
     background-color: #9e8abe;
     cursor: pointer;
 }
