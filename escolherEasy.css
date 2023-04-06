@@ -24,6 +24,10 @@
     height: 100vh;
 }
 
+.imageLevel {
+    width: 40%;
+}
+
 .box {
     display: flex;
     flex-direction: column;
