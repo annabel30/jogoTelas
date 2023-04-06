@@ -74,6 +74,7 @@
     height: 10vh;
     align-items: center;
     padding: 1rem;
+    font-family: Jujutsu;
 }
 
 .buttonVoltar {
@@ -86,7 +87,7 @@
 }
 
 .buttonJogar {
-    background-color: #B9A9D4;
+    background-color: #8471A3;
     border-radius: 1rem;
     width: 100%;
     height: 7vh;
@@ -100,7 +101,7 @@
 }
 
 .buttonJogar:hover {
-    background-color: #9282ad;
+    background-color: rgb(114, 102, 136);
     cursor: pointer;
 }
 
