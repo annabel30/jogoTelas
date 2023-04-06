@@ -77,16 +77,18 @@
     background-color: #B9A9D4;
     border-radius: 1rem;
     width: 100%;
-    height: 8vh;
+    height: 7vh;
     border: 0;
+    font-size: 1.2rem;
 }
 
 .buttonJogar {
     background-color: #B9A9D4;
     border-radius: 1rem;
     width: 100%;
-    height: 8vh;
+    height: 7vh;
     border: 0;
+    font-size: 1.2rem;
 }
 
 .buttonPontuacao:hover {
