@@ -48,6 +48,13 @@
     width: 45%;
 }
 
+.boxTextInfoLevel {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
 .textInfoLevel {
     width: 40%;
 }
