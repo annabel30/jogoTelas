@@ -19,7 +19,7 @@
     flex-direction: column;
     justify-content: flex-end;
     align-items: center;
-    background-color: #A086CB;
+    background-color: #E58686;
     width: 100%;
     height: 100vh;
     gap: 3rem;
@@ -49,7 +49,7 @@
     padding: 1rem;
 }
 
-.imageEasyCard {
+.imageHardCard {
     width: 45%;
 }
 
@@ -83,7 +83,7 @@
 }
 
 .buttonVoltar {
-    background-color: #B9A9D4;
+    background-color: #D88484;
     border-radius: 1rem;
     width: 100%;
     height: 7vh;
@@ -94,7 +94,7 @@
 }
 
 .buttonJogar {
-    background-color: #8471A3;
+    background-color: #E56A6A;
     border-radius: 1rem;
     width: 100%;
     height: 7vh;
@@ -105,12 +105,12 @@
 }
 
 .buttonVoltar:hover {
-    background-color: #9e8abe;
+    background-color: #b16060;
     cursor: pointer;
 }
 
 .buttonJogar:hover {
-    background-color: rgb(114, 102, 136);
+    background-color: #b65252;
     cursor: pointer;
 }
 
