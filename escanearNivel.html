@@ -1,13 +1,38 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://aframe.io/releases/1.4.1/aframe.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/donmccurdy/aframe-extras@v6.1.1/dist/aframe-extras.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/mind-ar@1.2.1/dist/mindar-image-aframe.prod.js"></script>
+    <link rel="icon" type="image/png" href="./img/logo.png" />
     <title>Escolher Nível</title>
-    <link rel="icon" type="image/png" href="./img/logo.png"/>
 </head>
-<body>
-    
+
+<body onload="startGame()">
+    <a-scene mindar-image="imageTargetSrc: ./targets.mind" color-space="sRGB"
+        renderer="colorManagement: true, physicallyCorrectLights" vr-mode-ui="enabled: false"
+        device-orientation-permission-ui="enabled: false">
+        <a-camera position="0 0 0" look-controls="enabled: false"></a-camera>
+
+        <a-entity id="img1" mindar-image-target="targetIndex: 0"></a-entity>
+        <a-entity id="img2" mindar-image-target="targetIndex: 1"></a-entity>
+        <a-entity id="img3" mindar-image-target="targetIndex: 2"></a-entity>
+        <a-entity id="img4" mindar-image-target="targetIndex: 3"></a-entity>
+        <a-entity id="img5" mindar-image-target="targetIndex: 4"></a-entity>
+        <a-entity id="img6" mindar-image-target="targetIndex: 5"></a-entity>
+        <a-entity id="img7" mindar-image-target="targetIndex: 6"></a-entity>
+        <a-entity id="img8" mindar-image-target="targetIndex: 7"></a-entity>
+        <a-entity id="img9" mindar-image-target="targetIndex: 8"></a-entity>
+        <a-entity id="img10" mindar-image-target="targetIndex: 9"></a-entity>
+        <a-entity id="img11" mindar-image-target="targetIndex: 10"></a-entity>
+        <a-entity id="img12" mindar-image-target="targetIndex: 11"></a-entity>
+
+    </a-scene>
 </body>
+<script src="./jogo.js"></script>
+
 </html>
